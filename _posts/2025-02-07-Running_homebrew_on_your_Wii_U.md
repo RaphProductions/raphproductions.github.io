@@ -1,6 +1,6 @@
 ---
 title: Running homebrew on your Wii U
-date: 2025-02-07 HH:MM:SS +/-TTTT
+date: 2025-02-07 15:12:42 +/-0100
 categories: [Homebrew, Wii U]
 tags: [wiiu, homebrew, nintendo] 
 ---

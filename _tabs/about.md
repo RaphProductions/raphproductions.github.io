@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About me
 I'm Raphaël (known as Raph. on Discord, or RaphProductions on GitHub), someone who likes writing code.
 
 ## Languages i can use
